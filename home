@@ -7,7 +7,6 @@ vless://0a8b9e1b-fab0-4b02-aee2-5606c482064e@angelina.ns.cloudflare.com:443?encr
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?encryption=none&security=none&type=tcp&headerType=none#13@t.me/freekesha21
 vless://0ec9f944-136f-40d6-a126-4fafc0f479d5@c2.vact.ir:2083?encryption=none&security=reality&sni=refersion.com&fp=randomized&pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&sid=11a4b6bca8&spx=%2F&type=grpc#15@t.me/freekesha21
 vless://1051bfbb-90db-4261-b5e4-8b91f62b436f@156.67.30.77:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=spotify.com&alpn=http%2F1.1&fp=chrome&pbk=SDUAmbkyV3wQEEXwV9wpwTqS2qi7gOekiZNpS1jfcXc&sid=d59cd3&spx=%2F&type=tcp&headerType=none#17@t.me/freekesha21
-vless://16338bd4-8be4-4277-c0f9-86de36c054c3@37.44.215.62:56666?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&type=tcp&headerType=none#19@t.me/freekesha21
 vless://1a68cd2d-0aa0-57b7-ae20-74581c2007a2@77.91.102.85:2052?encryption=none&security=none&type=ws&path=%2Fvless#21@t.me/freekesha21
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.103:3237?encryption=none&security=none&type=tcp&headerType=none#23@t.me/freekesha21
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.132:3237?encryption=none&security=none&type=tcp&headerType=none#25@t.me/freekesha21
